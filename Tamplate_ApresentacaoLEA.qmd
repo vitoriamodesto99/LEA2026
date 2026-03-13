@@ -1,0 +1,40 @@
+---
+title: "Tamplate_ApresentaçãoLEA"
+author: "Vitoria Modesto"
+format: revealjs
+editor: visual
+---
+
+## 
+
+## Introdução
+
+Inserir a introdução do relatório
+
+## Material e Métodos
+
+Inserir materias e métodos utizados durante o relatório (equações, etc...) $\frac{1}{2}$
+
+## Resultados
+
+Inserir resultados finais
+
+## Discussão
+
+Discutir os resultados
+
+## Conclusão
+
+Apresentar a conclusão final de todo o estudo feito no relatório.
+
+## Agradecimentos
+
+Adicionar agradecimentos (se houver)
+
+## Bibliografia
+
+Inserir bibliografia
+
+```{r}
+1 + 1
+```
